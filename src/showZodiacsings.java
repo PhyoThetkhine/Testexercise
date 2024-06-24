@@ -107,6 +107,7 @@ public static void determineZodiacSign(int month) {
         default:
             System.out.println("Invalid month.");
     }
+    System.out.println("Thanks");
 }
 }
 
