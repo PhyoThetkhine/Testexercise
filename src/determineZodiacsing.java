@@ -83,6 +83,8 @@ public class determineZodiacsing {
     public static void mont10(int date){
         if (date >= 1 && date <= 22) {
             System.out.println("Your zodiac sign is Libra.");
+
+
         } else if (date >= 23 && date <= 31) {
             System.out.println("Your zodiac sign is Scorpio.");
         } else {
